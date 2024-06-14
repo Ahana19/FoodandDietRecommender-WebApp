@@ -2,6 +2,11 @@
 
 ## Table of Contents
 - [Introduction](https://pip.pypa.io/en/stable/)
+- [Features](https://pip.pypa.io/en/stable/)
+- [Tech Stacks](https://pip.pypa.io/en/stable/)
+- [Installation](https://pip.pypa.io/en/stable/)
+- [Usage](https://pip.pypa.io/en/stable/)
+- [Configuration](https://pip.pypa.io/en/stable/)
 
 ## Introduction
 
@@ -47,7 +52,7 @@ To get a local copy up and running, follow these steps:
 ## Usage
 
     ```sh
-streamlit run app.py
+     streamlit run app.py
     ```
 
 ## Configuration
