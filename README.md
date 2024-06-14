@@ -51,18 +51,18 @@ To get a local copy up and running, follow these steps:
 
 ## Usage
 
-    ```sh
+    
      streamlit run app.py
-    ```
+    
 
 ## Configuration
 
-1. # Open AI API Key
+1. ### Open AI API Key
      ```sh
        OPENAI_API_KEY=your_openai_api_key
 
     ```
-2. # LLaMA Model
+2. ### LLaMA Model
 
    Ensure the LLaMA model is correctly configured and accessible via Hugging Face's API.
 
