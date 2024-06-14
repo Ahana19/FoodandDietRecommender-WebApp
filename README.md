@@ -33,8 +33,7 @@ The Food and Diet Recommender Web App is designed to help users receive personal
 To get a local copy up and running, follow these steps:
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Ahana19/TextEmotionDetection
-    cd text-summarization-web-app
+    https://github.com/Ahana19/FoodandDietRecommender-WebApp/tree/main  
     ```
 
 2. Create a virtual environment:
