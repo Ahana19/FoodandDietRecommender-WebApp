@@ -7,7 +7,7 @@ import os
 
 
 
-os.environ['OPENAI_API_KEY'] = 'sk-proj-dLk5IC62y7j5DaBHl8VxT3BlbkFJmBWYCDSP7I7wlfRhz1F9' 
+os.environ['OPENAI_API_KEY'] = '' 
 
 st.title("Personalized Diet and Workout Recommender:coffee:")
 st.markdown('<style>h1{color: orange; text-align: center;}</style>', unsafe_allow_html=True)
