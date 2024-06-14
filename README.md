@@ -1,6 +1,6 @@
-#Food and Diet Recommender Web App
+# Food and Diet Recommender Web App
 
-##Table of Contents
+## Table of Contents
 - [pip](Introduction)
 -  [pip](Features)
 - [pip](TechStacks)
@@ -8,11 +8,11 @@
 -  [pip](Usage)
 -  [pip](Configuration)
 
-##Introduction
+## Introduction
 
 The Food and Diet Recommender Web App is designed to help users receive personalized food and diet recommendations. Leveraging the power of advanced language models and machine learning, this application provides intelligent diet suggestions based on user inputs and preferences
 
-##Features
+## Features
 
 - Personalized diet recommendations
 - Integration with LangChain for advanced language processing
@@ -20,7 +20,7 @@ The Food and Diet Recommender Web App is designed to help users receive personal
 - Deployed using Streamlit for a seamless user interface
 - Supports LLaMA model from Hugging Face for enhanced performance
 
-##Tech Stacks
+## Tech Stacks
 
 - Python: Core programming language
 - Streamlit: Deployment framework for the web app
@@ -28,7 +28,7 @@ The Food and Diet Recommender Web App is designed to help users receive personal
 - OpenAI API: For AI and machine learning features
 - Hugging Face: Specifically the LLaMA model for NLP tasks
 
-##Installation
+## Installation
 
 To get a local copy up and running, follow these steps:
 1. Clone the repository:
@@ -47,13 +47,22 @@ To get a local copy up and running, follow these steps:
     ```sh
     pip install -r requirements.txt
     ```
-##Usage
 
-To start the web app, run:
-   ```sh
-    git clone https://github.com/Ahana19/TextEmotionDetection
-    cd text-summarization-web-app
+
+## Usage
+
+    ```sh
+streamlit run app.py
     ```
 
+## Configuration
 
+1. # Open AI API Key
+     ```sh
+       OPENAI_API_KEY=your_openai_api_key
+
+    ```
+2. # LLaMA Model
+
+   Ensure the LLaMA model is correctly configured and accessible via Hugging Face's API.
 
