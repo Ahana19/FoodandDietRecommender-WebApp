@@ -1,12 +1,7 @@
 # Food and Diet Recommender Web App
 
 ## Table of Contents
-- [Introduction]
--  [Features]
-- [Tech Stacks]
--  [Installation]
--  [Usage]
--  [Configuration]
+- [Introduction](https://pip.pypa.io/en/stable/)
 
 ## Introduction
 
