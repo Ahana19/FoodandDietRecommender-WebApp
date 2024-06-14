@@ -1,12 +1,12 @@
 # Food and Diet Recommender Web App
 
 ## Table of Contents
-- [pip](Introduction)
--  [pip](Features)
-- [pip](TechStacks)
--  [pip](Installation)
--  [pip](Usage)
--  [pip](Configuration)
+- [Introduction]
+-  [Features]
+- [Tech Stacks]
+-  [Installation]
+-  [Usage]
+-  [Configuration]
 
 ## Introduction
 
